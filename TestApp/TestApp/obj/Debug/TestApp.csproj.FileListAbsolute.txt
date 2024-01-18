@@ -1,0 +1,11 @@
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\ThinkPad X1\source\repos\TestApp\TestApp\obj\Debug\TestApp.Form2.resources

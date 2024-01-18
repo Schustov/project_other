@@ -1,0 +1,10 @@
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\bin\Debug\Fitness.exe.config
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\bin\Debug\Fitness.exe
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\bin\Debug\Fitness.pdb
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.csproj.AssemblyReference.cache
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.Form1.resources
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.Properties.Resources.resources
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.csproj.GenerateResource.cache
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.exe
+C:\Users\ThinkPad X1\source\repos\Fitness\Fitness\obj\Debug\Fitness.pdb

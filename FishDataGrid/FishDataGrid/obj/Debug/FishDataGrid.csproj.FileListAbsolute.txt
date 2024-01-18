@@ -1,0 +1,56 @@
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.exe.config
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.exe
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.pdb
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.AssemblyReference.cache
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Form1.resources
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Properties.Resources.resources
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.GenerateResource.cache
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.exe
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.pdb
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Form2.resources
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\CsvHelper.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Buffers.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Memory.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\CsvHelper.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Buffers.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Memory.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ThinkPad X1\source\repos\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.CopyComplete
+D:\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.exe.config
+D:\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.exe
+D:\FishDataGrid\FishDataGrid\bin\Debug\FishDataGrid.pdb
+D:\FishDataGrid\FishDataGrid\bin\Debug\CsvHelper.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Buffers.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Memory.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Numerics.Vectors.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FishDataGrid\FishDataGrid\bin\Debug\CsvHelper.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Buffers.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Memory.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Numerics.Vectors.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FishDataGrid\FishDataGrid\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.AssemblyReference.cache
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Form1.resources
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Form2.resources
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.Properties.Resources.resources
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.GenerateResource.cache
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.CoreCompileInputs.cache
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.csproj.CopyComplete
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.exe
+D:\FishDataGrid\FishDataGrid\obj\Debug\FishDataGrid.pdb

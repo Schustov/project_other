@@ -1,0 +1,10 @@
+C:\Users\Даниил\source\repos\bars\bars\bin\Debug\bars.exe.config
+C:\Users\Даниил\source\repos\bars\bars\bin\Debug\bars.exe
+C:\Users\Даниил\source\repos\bars\bars\bin\Debug\bars.pdb
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.Form1.resources
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.Properties.Resources.resources
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.exe
+C:\Users\Даниил\source\repos\bars\bars\obj\Debug\bars.pdb
